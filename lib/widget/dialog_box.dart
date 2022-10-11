@@ -68,7 +68,6 @@ class DialogBox extends StatelessWidget {
                 children: [
                   MaterialButton(
                     onPressed: onSave,
-                    color: Theme.of(context).primaryColor,
                     child: Text(
                       'Save',
                       style: GoogleFonts.poppins(
@@ -80,9 +79,8 @@ class DialogBox extends StatelessWidget {
                   const SizedBox(width: 12),
                   MaterialButton(
                     onPressed: onCancel,
-                    color: Theme.of(context).primaryColor,
                     child: Text(
-                      'Save',
+                      'Cancel',
                       style: GoogleFonts.poppins(
                         letterSpacing: 1,
                         fontWeight: FontWeight.w400,
