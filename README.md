@@ -1,16 +1,28 @@
-# todo_app
+### 📦 **Todo App**
 
-A new Flutter project.
+Very Simple Todo App Using State Management Pure Flutter
 
-## Getting Started
+### 🎁 **Fiture**
+- App Logo
+- App Name
+- Todo Function It Self
 
-This project is a starting point for a Flutter application.
+### 📄 **Page Include**
+- Home Page
 
-A few resources to get you started if this is your first Flutter project:
+### 🎖  **Installing**
+```
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_slidable: ^1.2.0
+  google_fonts: ^3.0.1
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🚀 **Getting Started**
+1. Clone this project || Download Zip from GitHub
+2. Run `flutter pub get` In Terminal
+3. Run the project In Web or Emulator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📷 **Demo**
