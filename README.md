@@ -3,8 +3,9 @@
 Very Simple Todo App Using State Management Pure Flutter
 
 ### 🎁 **Fiture**
-- App Logo
 - App Name
+- Responsive
+- Support System.mode (Dark & Light) 
 - Todo Function It Self
 
 ### 📄 **Page Include**
@@ -26,3 +27,7 @@ dependencies:
 3. Run the project In Web or Emulator
 
 ### 📷 **Demo**
+
+
+https://user-images.githubusercontent.com/68719199/195085253-1436e9ca-8ae0-48d1-a5e8-763c44fdfa20.mov
+
